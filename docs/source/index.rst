@@ -103,8 +103,6 @@ Lista Zadań wykonanych i niewykonanych
 
 
 .. toctree::
-   :maxdepth: 3
 
- author.rst
-api.rst	
-usage.rst
+	api 
+	usage
