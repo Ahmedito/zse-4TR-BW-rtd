@@ -99,8 +99,17 @@ Lista Zadań wykonanych i niewykonanych
 
 
 
+
+
+
 .. toctree::
+   :maxdepth: 1
 
    author
-   usage
-   api
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Additional Sections
+
+   include:: usage.rst
+   include:: api.rst
