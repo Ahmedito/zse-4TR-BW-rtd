@@ -14,8 +14,8 @@ how to :ref:`installation` the project.
    This project is under active development.
 
 Contents
---------
-Polecenie	Znaczenie
+-------------------------
+
 ===========================	- Nagłówek tekstowy poziomu I
 
 ------------------------------ - Nagłówek tekstowy poziomu II
@@ -24,50 +24,63 @@ Polecenie	Znaczenie
 
 '''''''''''''''''''''''''''''' -	Nagłówek tekstowy poziomu IV
 
-To jest akapit tekstu -	Akapit tekstowy
+poprostu enter -	Akapit tekstowy
 
 .. note::
 
-Akapit informacyjny	Akapit informacyjny – Note
+	Akapit informacyjny - Akapit informacyjny – Note
 
 .. tip::
 
-Akapit z tipem	Akapit informacyjny - Tip
+	Akapit z tipem	Akapit informacyjny - Tip
 
 ``fragment kodu`` - Fragment kodu - liniowy
-..code-block:python
+
 
 	Fragment kodu - blokowy
-kod
+	kod
 
-:ref:`nazwa_odnosnika`	Odnośnik wewnętrzny (w obrębie dokumentacji)
+:ref:`nazwa_odnosnika` -Odnośnik wewnętrzny (w obrębie dokumentacji)
 
 `tekst odnośnika <edu.gplweb.pl>`	Odnośnik zewnętrzny (do innego serwisu)
+
 Lista numerowana
 
 1.pierwszy
+
 2.drugi
+
 3.trzeci
 
 Lista wypunktowana
+
 -pierwszy
+
 -drugi
+
 -trzeci	
+
 Lista definicji – termin
+
 Termin1
+
 :definicja1
+
 Termin2
+
 :definicja2	
+
 - definicja
 Obraz - ścieżka
+- szerokość dla CSS
+ - wycentrowanie dla kontenera
+ - tekst alternatywny atrybutu ALT znacznika IMG
+ - podpis pod obrazkiem
+
 .. image:: ścieżka/do/obrazu.png
    :width: szerokość
    :align: wycentrowanie
    :alt: tekst alternatywny	
- - szerokość dla CSS
- - wycentrowanie dla kontenera
- - tekst alternatywny atrybutu ALT znacznika IMG
- - podpis pod obrazkiem
 
 	Tabela z danymi
 +------------+------------+
