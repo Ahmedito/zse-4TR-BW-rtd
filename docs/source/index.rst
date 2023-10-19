@@ -100,6 +100,7 @@ Lista Zadań wykonanych i niewykonanych
 
 
 .. toctree::
+
    author
    usage
    api
