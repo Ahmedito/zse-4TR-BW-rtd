@@ -1,6 +1,7 @@
 ===============================
-Author is Bartosz Wojciechowski 
+Author 
 ===============================
+Author : Bartosz Wojciechowski
 class 4TR
 
 .. autosummary::
