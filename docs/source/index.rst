@@ -106,3 +106,4 @@ Lista Zadań wykonanych i niewykonanych
 
 	api 
 	usage
+	author
