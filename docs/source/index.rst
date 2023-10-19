@@ -17,35 +17,53 @@ Contents
 --------
 Polecenie	Znaczenie
 ===========================	- Nagłówek tekstowy poziomu I
+
 ------------------------------ - Nagłówek tekstowy poziomu II
+
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ -	Nagłówek tekstowy poziomu III
+
 '''''''''''''''''''''''''''''' -	Nagłówek tekstowy poziomu IV
+
 To jest akapit tekstu -	Akapit tekstowy
 
-..note::
+.. note::
+
 Akapit informacyjny	Akapit informacyjny – Note
-..tip::
+
+.. tip::
+
 Akapit z tipem	Akapit informacyjny - Tip
-``fragment kodu``	Fragment kodu - liniowy
+
+``fragment kodu`` - Fragment kodu - liniowy
 ..code-block:python
-kod	Fragment kodu - blokowy
+
+	Fragment kodu - blokowy
+kod
+
 :ref:`nazwa_odnosnika`	Odnośnik wewnętrzny (w obrębie dokumentacji)
+
 `tekst odnośnika <edu.gplweb.pl>`	Odnośnik zewnętrzny (do innego serwisu)
+Lista numerowana
+
 1.pierwszy
 2.drugi
-3.trzeci	Lista numerowana
+3.trzeci
+
+Lista wypunktowana
 -pierwszy
 -drugi
--trzeci	Lista wypunktowana
+-trzeci	
+Lista definicji – termin
 Termin1
 :definicja1
 Termin2
-:definicja2	Lista definicji – termin
+:definicja2	
 - definicja
+Obraz - ścieżka
 .. image:: ścieżka/do/obrazu.png
    :width: szerokość
    :align: wycentrowanie
-   :alt: tekst alternatywny	Obraz - ścieżka
+   :alt: tekst alternatywny	
  - szerokość dla CSS
  - wycentrowanie dla kontenera
  - tekst alternatywny atrybutu ALT znacznika IMG
