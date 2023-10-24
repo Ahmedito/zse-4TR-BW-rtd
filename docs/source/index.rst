@@ -30,11 +30,11 @@ poprostu enter -	Akapit tekstowy
 
 .. note::
 
-	Akapit informacyjny - Akapit informacyjny – Note
+	Akapit informacyjny - Akapit informacyjny – Note - ``..note::``
 
 .. tip::
 
-	Akapit z tipem	Akapit informacyjny - Tip
+	Akapit z tipem	Akapit informacyjny - Tip - ``..tip::``
 
 ``fragment kodu`` - Fragment kodu - liniowy
 
